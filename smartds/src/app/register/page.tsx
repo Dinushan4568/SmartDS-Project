@@ -338,7 +338,7 @@ export default function RegisterPage() {
               type="submit"
               className="h-12 w-full rounded-lg bg-gradient-to-r from-[#2167ed] to-[#0750ce] text-sm font-extrabold text-white shadow-lg shadow-blue-100 transition hover:brightness-110"
             >
-              CREATE ACCOUNT
+              CREATE ACCOUNT.
             </button>
           </form>
 
